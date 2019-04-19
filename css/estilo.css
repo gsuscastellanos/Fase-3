@@ -1,5 +1,5 @@
 body{
 	margin: 0;
 	padding: 0;
-	font: url(../img/Unad.jpg);
+	background: url(../img/Unad.jpg);no-repeat fixed center center #333;
 }
