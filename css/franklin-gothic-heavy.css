@@ -1,0 +1,17 @@
+/*****************************
+ All rights reserved.
+ AllFont.net (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Franklin Gothic Heavy';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Franklin Gothic Heavy'), local('FranklinGothicHeavy-Regular'),
+        url(http://allfont.net/cache/fonts/franklin-gothic-heavy_4d13be3d7e0bde3cf8be37610dc835bf.woff) format('woff'),
+        url(http://allfont.net/cache/fonts/franklin-gothic-heavy_4d13be3d7e0bde3cf8be37610dc835bf.ttf) format('truetype');
+}
+
+.tk-"Franklin Gothic Heavy"{font-family: "Franklin Gothic Heavy",sans-serif;}
+header {font-family:"Franklin Gothic Heavy",sans-serif;}
+
+}
