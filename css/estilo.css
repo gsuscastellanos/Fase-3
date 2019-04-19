@@ -23,4 +23,14 @@ body{
 	margin-top: 20px;
 	width: 200px;
 }
+#segundo{
+	border-radius: 5px;
+	background-color: #ddd;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	float: left;
+	padding: 40px;
+	margin-left: 50px; 
+	margin-top: 20px;
+	width: 200px;
+}
 
