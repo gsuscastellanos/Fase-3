@@ -34,3 +34,11 @@ body{
 	width: 200px;
 }
 
+img{
+	text-align: center;
+	float: left;
+	width: 10em;
+	height: 10em;
+	padding-left: 270px;
+}
+
