@@ -36,3 +36,11 @@
     padding: 10px 30px;
     background: #000000;
 }
+
+#menu{
+    width: 52%;
+    margin: 50px auto;
+    border: solid 1px #000;
+    font: 1em arial, helvetica, sans-serif;
+    color: white;
+}
