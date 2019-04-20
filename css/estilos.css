@@ -64,7 +64,8 @@ nav ul li{
 
 #textoPr{
     background-color: #F0B429; 
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 20px;
+    padding: 20px;
 }
 
 #textoPr h1{
@@ -75,22 +76,27 @@ nav ul li{
 
 #textoPr h2{
    font-family: "Franklin Gothic Heavy";
-   text-align: center;
+   text-align: justify;
    font-size: 40px;
  }
 
 #textoPr h3{
    font-family: "Franklin Gothic Heavy";
-   text-align: center;
+   text-align: justify;
    font-size: 20px;
  }
  #textoPr h4{
    font-family: "Franklin GothiC Book";
-   text-align: center;
+   text-align: justify;
    font-size: 20px;
  }
 #textoPr p{
    font-family: "Franklin GothiC Book";
-   text-align: center;
+   text-align: justify;
    font-size: 10px; 
+}
+
+footer{
+    font-family: "Franklin GothiC Book";
+    text-align: center;
 }
