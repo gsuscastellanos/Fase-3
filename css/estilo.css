@@ -3,7 +3,6 @@
 	margin: 0;
 }
 
-
 @font-face {
     font-family: 'angsana_newregular';
     src: url('fonts/angsa-webfont.woff2') format('woff2'),
@@ -12,9 +11,6 @@
     font-style: normal;
 
 }
-
-
-
 
 @font-face {
     font-family: 'angsana_newbold';
@@ -25,9 +21,6 @@
 
 }
 
-
-
-
 @font-face {
     font-family: 'franklin_gothicitalic';
     src: url('fonts/franklin_gothic_italic-webfont.woff2') format('woff2'),
@@ -37,13 +30,13 @@
 
 }
 
-
 body{
 	background: #FFFF;
 	color: #212121;
 	font-family: "franklin_gothicitalic";
 	font-size: 0.5em;
 }
+
 h1{
 	color:#F47920;
 	margin: 0.25em auto;
@@ -53,6 +46,7 @@ h1{
 	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
 
 }
+
 footer{
 	font-family:"angsana_newregular";
 	font-size: 0.5em;
