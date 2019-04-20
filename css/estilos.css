@@ -1,0 +1,38 @@
+.Social {
+    position: fixed;
+    left: -30px;
+    top: 250px;
+    z-index: 2000;
+}
+
+.Social ul {
+    list-style: none;
+}
+
+.Social ul li a {
+    display: inline-block;
+    color: #ffffff;
+    background: #000000;
+    padding: 10px 15px;
+    text-decoration: none;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.Social ul li .icon-facebook {
+    background: #3b5998;
+}
+
+.Social ul li .icon-twitter {
+    background: #00abf0;
+}
+
+.Social ul li .icon-google-plus {
+    background: #d95232;
+}
+
+.Social ul li a:hover {
+    padding: 10px 30px;
+    background: #000000;
+}
